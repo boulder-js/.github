@@ -1,8 +1,10 @@
 # 🌈 Welcome to BoulderJS
 
-[Join us on Discord](https://chat.boulderjs.org) or participate in our 🍿 [discussions on GitHub](https://github.com/orgs/boulder-js/discussions).
+🍿 [Join us on Discord](https://chat.boulderjs.org) or participate in our [discussions on GitHub](https://github.com/orgs/boulder-js/discussions).
 
 ## Talks & Events
+
+We use 🧙 [GitHub Issues](https://github.com/boulder-js/talks/issues) as Talk proposals. They can be voted on, discussed and scheduled into events.
 
 - Event Planning: https://github.com/orgs/boulder-js/projects/1
 - List of talks: https://github.com/boulder-js/talks/issues
