@@ -24,4 +24,4 @@ We use Github issues to manage requests to host.
 
 ## Request to Sponsor
 
-https://github.com/boulder-js/.github/issues/new
+https://github.com/boulder-js/.github/issues/new/choose

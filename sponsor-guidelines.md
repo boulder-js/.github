@@ -8,4 +8,4 @@ BoulderJS meets every month. Our events are free for participants, we rely on sp
 
 ## Submitting a Sponsorship Request
 
-https://github.com/boulder-js/.github/issues/new
+https://github.com/boulder-js/.github/issues/new/choose
