@@ -1,6 +1,6 @@
 # 🌈 Welcome to BoulderJS
 
-[Join us on Discord](https://chat.boulderjs.org) or participate in our 🍿 [discussions on GitHub](https://github.com/boulder-js/.github/discussions).
+[Join us on Discord](https://chat.boulderjs.org) or participate in our 🍿 [discussions on GitHub](https://github.com/orgs/boulder-js/discussions).
 
 ## Talks
 
