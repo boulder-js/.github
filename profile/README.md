@@ -6,9 +6,9 @@
 
 We use 🧙 [GitHub Issues](https://github.com/boulder-js/talks/issues) as Talk proposals. They can be voted on, discussed and scheduled into events.
 
-- Event Planning: https://github.com/orgs/boulder-js/projects/1
-- List of talks: https://github.com/boulder-js/talks/issues
-- Propose a new talk: https://github.com/boulder-js/talks/issues/new/choose
+- [Event Planning](https://github.com/orgs/boulder-js/projects/1)
+- [List of talks](https://github.com/boulder-js/talks/issues)
+- [Propose a new talk](https://github.com/boulder-js/talks/issues/new/choose)
 
 ## Organizers, Sponsors and Guidelines
 
